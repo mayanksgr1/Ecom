@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning Microservices\\03_06_final\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {}
+    "D:\\Learning Microservices\\Ecom\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {}
   },
   "projects": {
-    "D:\\Learning Microservices\\03_06_final\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {
+    "D:\\Learning Microservices\\Ecom\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning Microservices\\03_06_final\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+        "projectUniqueName": "D:\\Learning Microservices\\Ecom\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
         "projectName": "ECommerce.Api.Orders",
-        "projectPath": "D:\\Learning Microservices\\03_06_final\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+        "projectPath": "D:\\Learning Microservices\\Ecom\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
         "packagesPath": "C:\\Users\\mayankj\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning Microservices\\03_06_final\\ECommerce.Api.Orders\\obj\\",
+        "outputPath": "D:\\Learning Microservices\\Ecom\\ECommerce.Api.Orders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
             }
           },
           "imports": [
@@ -72,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
